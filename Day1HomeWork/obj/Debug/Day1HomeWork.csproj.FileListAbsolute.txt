@@ -1,0 +1,7 @@
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\bin\Debug\Day1HomeWork.dll
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\bin\Debug\Day1HomeWork.pdb
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\obj\Debug\Day1HomeWork.csprojResolveAssemblyReference.cache
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\obj\Debug\Day1HomeWork.dll
+c:\users\harry\onedrive\文件\visual studio 2015\Projects\Day1HomeWork\Day1HomeWork\obj\Debug\Day1HomeWork.pdb
